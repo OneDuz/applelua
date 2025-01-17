@@ -1,1 +1,1 @@
-the github one lol
+print("loaded a lua")
